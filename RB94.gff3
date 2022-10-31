@@ -1,0 +1,47 @@
+##sequence-region BRSVrb94 1 15140
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11247
+BRSVrb94	RefSeq	region	1	15140	.	+	.	ID=BRSVrb94:1..15140;Dbxref=ATCC:51908,taxon:11247;gbkey=Src;genome=genomic;mol_type=genomic RNA;note=variant strain of BRSV A51908;strain=ATCC 51908
+BRSVrb94	RefSeq	five_prime_UTR	1	45	.	+	.	ID=id-BRSVrb94:1..45;function=Leader region 5'UTR;gbkey=5'UTR
+BRSVrb94	RefSeq	gene	46	572	.	+	.	ID=gene-D1P01_gp01;Dbxref=GeneID:37616287;Name=NS1;gbkey=Gene;gene=NS1;gene_biotype=protein_coding;locus_tag=D1P01_gp01
+BRSVrb94	RefSeq	mRNA	46	572	.	+	.	ID=rna-D1P01_gp01;Parent=gene-D1P01_gp01;Dbxref=GeneID:37616287;gbkey=mRNA;gene=NS1;locus_tag=D1P01_gp01;product=nonstructural protein 1
+BRSVrb94	RefSeq	exon	46	572	.	+	.	ID=exon-D1P01_gp01-1;Parent=rna-D1P01_gp01;Dbxref=GeneID:37616287;gbkey=mRNA;gene=NS1;locus_tag=D1P01_gp01;product=nonstructural protein 1
+BRSVrb94	RefSeq	CDS	99	509	.	+	0	ID=cds-YP_009505448.1;Parent=rna-D1P01_gp01;Dbxref=Genbank:YP_009505448.1,GeneID:37616287;Name=YP_009505448.1;gbkey=CDS;gene=NS1;locus_tag=D1P01_gp01;product=nonstructural protein 1;protein_id=YP_009505448.1
+BRSVrb94	RefSeq	gene	579	1072	.	+	.	ID=gene-D1P01_gp02;Dbxref=GeneID:37616278;Name=NS2;gbkey=Gene;gene=NS2;gene_biotype=protein_coding;locus_tag=D1P01_gp02
+BRSVrb94	RefSeq	mRNA	579	1072	.	+	.	ID=rna-D1P01_gp02;Parent=gene-D1P01_gp02;Dbxref=GeneID:37616278;gbkey=mRNA;gene=NS2;locus_tag=D1P01_gp02;product=nonstructural protein 2
+BRSVrb94	RefSeq	exon	579	1072	.	+	.	ID=exon-D1P01_gp02-1;Parent=rna-D1P01_gp02;Dbxref=GeneID:37616278;gbkey=mRNA;gene=NS2;locus_tag=D1P01_gp02;product=nonstructural protein 2
+BRSVrb94	RefSeq	CDS	609	983	.	+	0	ID=cds-YP_009505449.1;Parent=rna-D1P01_gp02;Dbxref=Genbank:YP_009505449.1,GeneID:37616278;Name=YP_009505449.1;gbkey=CDS;gene=NS2;locus_tag=D1P01_gp02;product=nonstructural protein 2;protein_id=YP_009505449.1
+BRSVrb94	RefSeq	gene	1129	2330	.	+	.	ID=gene-D1P01_gp03;Dbxref=GeneID:37616279;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=D1P01_gp03
+BRSVrb94	RefSeq	mRNA	1129	2330	.	+	.	ID=rna-D1P01_gp03;Parent=gene-D1P01_gp03;Dbxref=GeneID:37616279;gbkey=mRNA;gene=N;locus_tag=D1P01_gp03;product=nucleocapsid protein
+BRSVrb94	RefSeq	exon	1129	2330	.	+	.	ID=exon-D1P01_gp03-1;Parent=rna-D1P01_gp03;Dbxref=GeneID:37616279;gbkey=mRNA;gene=N;locus_tag=D1P01_gp03;product=nucleocapsid protein
+BRSVrb94	RefSeq	CDS	1144	2319	.	+	0	ID=cds-YP_009505450.1;Parent=rna-D1P01_gp03;Dbxref=Genbank:YP_009505450.1,GeneID:37616279;Name=YP_009505450.1;gbkey=CDS;gene=N;locus_tag=D1P01_gp03;product=nucleocapsid protein;protein_id=YP_009505450.1
+BRSVrb94	RefSeq	gene	2334	3198	.	+	.	ID=gene-D1P01_gp04;Dbxref=GeneID:37616280;Name=P;gbkey=Gene;gene=P;gene_biotype=protein_coding;locus_tag=D1P01_gp04
+BRSVrb94	RefSeq	mRNA	2334	3198	.	+	.	ID=rna-D1P01_gp04;Parent=gene-D1P01_gp04;Dbxref=GeneID:37616280;gbkey=mRNA;gene=P;locus_tag=D1P01_gp04;product=phosphoprotein
+BRSVrb94	RefSeq	exon	2334	3198	.	+	.	ID=exon-D1P01_gp04-1;Parent=rna-D1P01_gp04;Dbxref=GeneID:37616280;gbkey=mRNA;gene=P;locus_tag=D1P01_gp04;product=phosphoprotein
+BRSVrb94	RefSeq	CDS	2351	3076	.	+	0	ID=cds-YP_009505451.1;Parent=rna-D1P01_gp04;Dbxref=Genbank:YP_009505451.1,GeneID:37616280;Name=YP_009505451.1;gbkey=CDS;gene=P;locus_tag=D1P01_gp04;product=phosphoprotein;protein_id=YP_009505451.1
+BRSVrb94	RefSeq	gene	3211	4160	.	+	.	ID=gene-D1P01_gp05;Dbxref=GeneID:37616281;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=D1P01_gp05
+BRSVrb94	RefSeq	mRNA	3211	4160	.	+	.	ID=rna-D1P01_gp05;Parent=gene-D1P01_gp05;Dbxref=GeneID:37616281;gbkey=mRNA;gene=M;locus_tag=D1P01_gp05;product=matrix protein
+BRSVrb94	RefSeq	exon	3211	4160	.	+	.	ID=exon-D1P01_gp05-1;Parent=rna-D1P01_gp05;Dbxref=GeneID:37616281;gbkey=mRNA;gene=M;locus_tag=D1P01_gp05;product=matrix protein
+BRSVrb94	RefSeq	CDS	3220	3990	.	+	0	ID=cds-YP_009505452.1;Parent=rna-D1P01_gp05;Dbxref=Genbank:YP_009505452.1,GeneID:37616281;Name=YP_009505452.1;gbkey=CDS;gene=M;locus_tag=D1P01_gp05;product=matrix protein;protein_id=YP_009505452.1
+BRSVrb94	RefSeq	gene	4186	4651	.	+	.	ID=gene-D1P01_gp06;Dbxref=GeneID:37616282;Name=SH;gbkey=Gene;gene=SH;gene_biotype=protein_coding;locus_tag=D1P01_gp06
+BRSVrb94	RefSeq	mRNA	4186	4651	.	+	.	ID=rna-D1P01_gp06;Parent=gene-D1P01_gp06;Dbxref=GeneID:37616282;gbkey=mRNA;gene=SH;locus_tag=D1P01_gp06;product=small hydrophobic protein
+BRSVrb94	RefSeq	exon	4186	4651	.	+	.	ID=exon-D1P01_gp06-1;Parent=rna-D1P01_gp06;Dbxref=GeneID:37616282;gbkey=mRNA;gene=SH;locus_tag=D1P01_gp06;product=small hydrophobic protein
+BRSVrb94	RefSeq	CDS	4268	4513	.	+	0	ID=cds-YP_009505453.1;Parent=rna-D1P01_gp06;Dbxref=Genbank:YP_009505453.1,GeneID:37616282;Name=YP_009505453.1;gbkey=CDS;gene=SH;locus_tag=D1P01_gp06;product=small hydrophobic protein;protein_id=YP_009505453.1
+BRSVrb94	RefSeq	gene	4690	5529	.	+	.	ID=gene-D1P01_gp07;Dbxref=GeneID:37616283;Name=G;gbkey=Gene;gene=G;gene_biotype=protein_coding;locus_tag=D1P01_gp07
+BRSVrb94	RefSeq	mRNA	4690	5529	.	+	.	ID=rna-D1P01_gp07;Parent=gene-D1P01_gp07;Dbxref=GeneID:37616283;gbkey=mRNA;gene=G;locus_tag=D1P01_gp07;product=attachment glycoprotein
+BRSVrb94	RefSeq	exon	4690	5529	.	+	.	ID=exon-D1P01_gp07-1;Parent=rna-D1P01_gp07;Dbxref=GeneID:37616283;gbkey=mRNA;gene=G;locus_tag=D1P01_gp07;product=attachment glycoprotein
+BRSVrb94	RefSeq	CDS	4705	5478	.	+	0	ID=cds-YP_009505454.1;Parent=rna-D1P01_gp07;Dbxref=Genbank:YP_009505454.1,GeneID:37616283;Name=YP_009505454.1;gbkey=CDS;gene=G;locus_tag=D1P01_gp07;product=attachment glycoprotein;protein_id=YP_009505454.1
+BRSVrb94	RefSeq	gene	5557	7458	.	+	.	ID=gene-D1P01_gp08;Dbxref=GeneID:37616284;Name=F;gbkey=Gene;gene=F;gene_biotype=protein_coding;locus_tag=D1P01_gp08
+BRSVrb94	RefSeq	mRNA	5557	7458	.	+	.	ID=rna-D1P01_gp08;Parent=gene-D1P01_gp08;Dbxref=GeneID:37616284;gbkey=mRNA;gene=F;locus_tag=D1P01_gp08;product=fusion glycoprotein
+BRSVrb94	RefSeq	exon	5557	7458	.	+	.	ID=exon-D1P01_gp08-1;Parent=rna-D1P01_gp08;Dbxref=GeneID:37616284;gbkey=mRNA;gene=F;locus_tag=D1P01_gp08;product=fusion glycoprotein
+BRSVrb94	RefSeq	CDS	5570	7294	.	+	0	ID=cds-YP_009505455.1;Parent=rna-D1P01_gp08;Dbxref=Genbank:YP_009505455.1,GeneID:37616284;Name=YP_009505455.1;gbkey=CDS;gene=F;locus_tag=D1P01_gp08;product=fusion glycoprotein;protein_id=YP_009505455.1
+BRSVrb94	RefSeq	gene	7514	8473	.	+	.	ID=gene-D1P01_gp09;Dbxref=GeneID:37616285;Name=M2;gbkey=Gene;gene=M2;gene_biotype=protein_coding;locus_tag=D1P01_gp09
+BRSVrb94	RefSeq	mRNA	7514	8473	.	+	.	ID=rna-D1P01_gp09;Parent=gene-D1P01_gp09;Dbxref=GeneID:37616285;gbkey=mRNA;gene=M2;locus_tag=D1P01_gp09;product=matrix protein 2
+BRSVrb94	RefSeq	exon	7514	8473	.	+	.	ID=exon-D1P01_gp09-1;Parent=rna-D1P01_gp09;Dbxref=GeneID:37616285;gbkey=mRNA;gene=M2;locus_tag=D1P01_gp09;product=matrix protein 2
+BRSVrb94	RefSeq	CDS	7523	8083	.	+	0	ID=cds-YP_009505456.1;Parent=rna-D1P01_gp09;Dbxref=Genbank:YP_009505456.1,GeneID:37616285;Name=YP_009505456.1;Note=ORF1;gbkey=CDS;gene=M2;locus_tag=D1P01_gp09;product=Matrix protein M2-1;protein_id=YP_009505456.1
+BRSVrb94	RefSeq	CDS	8076	8348	.	+	0	ID=cds-YP_009505457.1;Parent=rna-D1P01_gp09;Dbxref=Genbank:YP_009505457.1,GeneID:37616285;Name=YP_009505457.1;Note=ORF2;gbkey=CDS;gene=M2;locus_tag=D1P01_gp09;product=Matrix protein M2-2;protein_id=YP_009505457.1
+BRSVrb94	RefSeq	gene	8407	14979	.	+	.	ID=gene-D1P01_gp10;Dbxref=GeneID:37616286;Name=L;gbkey=Gene;gene=L;gene_biotype=protein_coding;locus_tag=D1P01_gp10
+BRSVrb94	RefSeq	mRNA	8407	14979	.	+	.	ID=rna-D1P01_gp10;Parent=gene-D1P01_gp10;Dbxref=GeneID:37616286;gbkey=mRNA;gene=L;locus_tag=D1P01_gp10;product=RNA-dependent RNA polymerase major subunit
+BRSVrb94	RefSeq	exon	8407	14979	.	+	.	ID=exon-D1P01_gp10-1;Parent=rna-D1P01_gp10;Dbxref=GeneID:37616286;gbkey=mRNA;gene=L;locus_tag=D1P01_gp10;product=RNA-dependent RNA polymerase major subunit
+BRSVrb94	RefSeq	CDS	8414	14902	.	+	0	ID=cds-YP_009505458.1;Parent=rna-D1P01_gp10;Dbxref=Genbank:YP_009505458.1,GeneID:37616286;Name=YP_009505458.1;Note=RdRp%3B RNA-dependent RNA polymerase major subunit%3B large protein;gbkey=CDS;gene=L;locus_tag=D1P01_gp10;product=Polymerase protein;protein_id=YP_009505458.1
+BRSVrb94	RefSeq	three_prime_UTR	14980	15140	.	+	.	ID=id-BRSVrb94:14980..15140;function=Trailer region 3'UTR;gbkey=3'UTR
+
